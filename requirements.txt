@@ -1,0 +1,7 @@
+flask
+flask-login
+flask-openid
+flask-sqlalchemy
+sqlalchemy-migrate
+flask-wtf
+flask-babel
